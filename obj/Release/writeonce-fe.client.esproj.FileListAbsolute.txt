@@ -1,0 +1,1 @@
+C:\Shoney\writeonce-fe\writeonce-fe.client\obj\Release\writeonce-fe.client.esproj.CoreCompileInputs.cache
